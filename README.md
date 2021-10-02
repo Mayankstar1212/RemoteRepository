@@ -1,1 +1,2 @@
 # RemoteRepository
+Keep things simple
